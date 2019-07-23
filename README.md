@@ -1,6 +1,6 @@
 # Introduction to Web Development Project in HealthCare
 
-The project provides an introduction to a web development project in health care. Confidential information is not displayed. All images are either custom by Alpa D Desai 
+The project provides an introduction to a web development project in health care. Confidential information is not displayed. All images are custom by Alpa D Desai 
 
 Copyright protection is in process.  
 

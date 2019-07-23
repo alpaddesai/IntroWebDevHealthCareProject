@@ -13,7 +13,7 @@ Provide the patient's health record and receive recommendations on health care b
 ![image](RecommendAnInsurancePlanForPatient.png)
 
 ## Recommend a PCP Plan
-![image]()
+![image](RecommendAPCPAPatient.png)
 
 ## Recommend a Specialist
 ![image]()

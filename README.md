@@ -10,10 +10,10 @@ Provide the patient's health record and receive recommendations on health care b
 ![image](PatientInformationForm.png)
 
 ## Recommend an Insurance Plan
-
+![image](RecommendAnInsurancePlanForPatient.png)
 
 ## Recommend a PCP Plan
-![image](RecommendAPCPAPatient.png)
+![image]()
 
 ## Recommend a Specialist
-![image](RecommendASpecialist.png)
+![image]()

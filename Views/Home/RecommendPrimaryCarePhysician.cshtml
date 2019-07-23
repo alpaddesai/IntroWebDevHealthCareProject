@@ -1,0 +1,12 @@
+﻿@model HealthCareProject.Models.PatientInformationForm
+@{
+    ViewData["Title"] = "RecommendPrimaryCarePhysician";
+}
+
+<h2>Recommend a Primary Care Physician</h2>
+
+
+@foreach (var element in Model.PatientDatabase)
+{
+    <p>  @element.RecommendPrimaryCarePhysician(element)</p>
+}

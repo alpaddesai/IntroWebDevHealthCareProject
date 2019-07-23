@@ -1,0 +1,13 @@
+﻿@model HealthCareProject.Models.PatientInformationForm
+@{
+    ViewData["Title"] = "RecommendAnInsurancePlan";
+}
+
+<h2>Recommend An Insurance Plan</h2>
+
+
+@foreach (var element in Model.PatientDatabase)
+{
+    <p>  @element.RecommendAnInsurancePlan(element)</p>
+}
+

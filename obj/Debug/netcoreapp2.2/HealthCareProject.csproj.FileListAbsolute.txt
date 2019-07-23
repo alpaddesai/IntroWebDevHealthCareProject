@@ -1,0 +1,67 @@
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.RazorAssemblyInfo.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.RazorAssemblyInfo.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.AssemblyInfoInputs.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.AssemblyInfo.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.TagHelpers.input.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.TagHelpers.output.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.RazorCoreGenerate.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\PatientInformationForm.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\RecommendAnInsurancePlan.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\RecommendPrimaryCarePhysician.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\RecommendSpecialists.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.RazorTargetAssemblyInfo.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.RazorTargetAssemblyInfo.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.dll
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.pdb
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\bin\Debug\netcoreapp2.2\HealthCareProject.deps.json
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\bin\Debug\netcoreapp2.2\HealthCareProject.runtimeconfig.json
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\bin\Debug\netcoreapp2.2\HealthCareProject.runtimeconfig.dev.json
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\bin\Debug\netcoreapp2.2\HealthCareProject.dll
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\bin\Debug\netcoreapp2.2\HealthCareProject.pdb
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\bin\Debug\netcoreapp2.2\HealthCareProject.Views.dll
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\bin\Debug\netcoreapp2.2\HealthCareProject.Views.pdb
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.Views.pdb
+C:\Users\ADG\source\repos\EDUCSYE6202\Health Care Project\Health Care Project\obj\Debug\netcoreapp2.2\HealthCareProject.csproj.CopyComplete
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\bin\Debug\netcoreapp2.2\HealthCareProject.deps.json
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\bin\Debug\netcoreapp2.2\HealthCareProject.runtimeconfig.json
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\bin\Debug\netcoreapp2.2\HealthCareProject.runtimeconfig.dev.json
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\bin\Debug\netcoreapp2.2\HealthCareProject.dll
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\bin\Debug\netcoreapp2.2\HealthCareProject.pdb
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\bin\Debug\netcoreapp2.2\HealthCareProject.Views.dll
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\bin\Debug\netcoreapp2.2\HealthCareProject.Views.pdb
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.RazorAssemblyInfo.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.RazorAssemblyInfo.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.AssemblyInfoInputs.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.AssemblyInfo.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.TagHelpers.input.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.TagHelpers.output.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.RazorCoreGenerate.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\PatientInformationForm.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\RecommendAnInsurancePlan.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\RecommendPrimaryCarePhysician.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\RecommendSpecialists.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.RazorTargetAssemblyInfo.cache
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.RazorTargetAssemblyInfo.cs
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.Views.pdb
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.dll
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.pdb
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.csproj.CopyComplete
+C:\Users\ADG\source\repos\EDUCSYE6202\HealthCareProject\HealthCareProject\obj\Debug\netcoreapp2.2\HealthCareProject.csprojAssemblyReference.cache

@@ -16,4 +16,4 @@ Provide the patient's health record and receive recommendations on health care b
 ![image](RecommendAPCPAPatient.png)
 
 ## Recommend a Specialist
-![image]()
+![image](RecommendASpecialistForPatient.png)

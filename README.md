@@ -7,7 +7,7 @@ Copyright protection is in process.
 Provide the patient's health record and receive recommendations on health care budget, insurance plan, PCPs and specialists.
 
 ## Patient Information Form
-![image](PatientInformation.png)
+![image](PatientInformationForm.png)
 
 ## Recommend an Insurance Plan
 ![image](RecommendAnInsurancePlan.png)

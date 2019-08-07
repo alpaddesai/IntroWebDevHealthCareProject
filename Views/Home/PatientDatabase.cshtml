@@ -1,0 +1,102 @@
+﻿@model HealthCareProject.Models.PatientInformationForm
+@{
+    ViewData["Title"] = "Patient Database";
+}
+
+<h1>Patient Database</h1>
+
+<p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().HealthRecordsFirstName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().HealthRecordsLastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().Height)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().Weight)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().Allergies)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().DiagnosisandTestResults)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().Immunizations)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().MedicalHistory)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().Medications)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().FamilyHistory)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PatientDatabase.FirstOrDefault().ZipCode)
+                </th>
+                <th>
+
+                </th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var patientItem in Model.PatientDatabase)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.HealthRecordsFirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.HealthRecordsLastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.Height)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.Weight)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.Allergies)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.DiagnosisandTestResults)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.Immunizations)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.MedicalHistory)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.Medications)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.FamilyHistory)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => patientItem.ZipCode)
+                </td>
+                <td>
+                </td>
+            </tr>
+            }
+        </tbody>
+
+    </table>
+
+
+    
+    <a href="https://localhost:44328/Home/RecommendAnInsurancePlan">Recommend an Insurance Plan     </a>
+    <a href="https://localhost:44328/Home/RecommendPrimaryCarePhysician">Recommend a Primary Care Physician     </a>
+    <a href="https://localhost:44328/Home/RecommendSpecialists">Recommend a Specialist    </a>
+
+

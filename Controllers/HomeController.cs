@@ -11,8 +11,10 @@ namespace HealthCareProject.Controllers
 
     public class HomeController : Controller
     {
-        PatientInformationForm PatientInformationFormObject = new PatientInformationForm();
-  
+        //   PatientInformationForm PatientInformationFormObject = new PatientInformationForm();
+
+        PatientInformationForm PatientInformationObject = new PatientInformationForm("Alpa", "Desai", "64", "120", "WomensVitamins", "NoMajorFamilyHistoryIssue", "NoAllergies", "EyeGlasses", "UptoDateImmunizations", "NormalBloodTest", "2115");
+
         public IActionResult Index()
         {
             return View();
@@ -23,29 +25,29 @@ namespace HealthCareProject.Controllers
             return View();
         }
 
-        public IActionResult PatientInformationForm()
+        public IActionResult PatientDatabase()
         {
-            PatientInformationFormObject.CreatePatientDatabase();
-            return View(PatientInformationFormObject);
+            PatientInformationObject.CreatePatientDatabase();
+            return View(PatientInformationObject);
         }
 
  
         public IActionResult RecommendAnInsurancePlan()
         {
-            PatientInformationFormObject.CreatePatientDatabase();
-            return View(PatientInformationFormObject);
+            PatientInformationObject.CreatePatientDatabase();
+            return View(PatientInformationObject);
         }
 
         public IActionResult RecommendPrimaryCarePhysician()
         {
-            PatientInformationFormObject.CreatePatientDatabase();
-            return View(PatientInformationFormObject);
+            PatientInformationObject.CreatePatientDatabase();
+            return View(PatientInformationObject);
         }
 
         public IActionResult RecommendSpecialists()
         {
-            PatientInformationFormObject.CreatePatientDatabase();
-            return View(PatientInformationFormObject);
+            PatientInformationObject.CreatePatientDatabase();
+            return View(PatientInformationObject);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

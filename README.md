@@ -2,7 +2,7 @@
 
 The project provides an introduction to a web development project in health care. Confidential information is not displayed. All images are custom by Alpa D Desai 
 
-Copyright protection is in process.  
+
 
 Provide the patient's health record and receive recommendations on health care budget, insurance plan, PCPs and specialists.
 

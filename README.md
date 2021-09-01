@@ -18,4 +18,4 @@ Provide the patient's health record and receive recommendations on health care b
 ## Recommend a Specialist
 ![image](RecommendASpecialistForPatient.png)
 
-Additional reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
+Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement

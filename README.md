@@ -11,7 +11,7 @@ The web application is associated with providing non-confidential high level hea
 Customer use case
 
 •	Seeking a primary care physician and health insurance based on existing health, target customer base is international students and domestic out of state students in the age group of 21 to 25.
-•	Primary care physician provides information on a new health issue, you wish to seek a specialist. This search engine can provide the appropriate listings based on zip codes and insurance.  Age group 25+
+•	Primary care physician provides information on a new health issue, you wish to seek a specialist. This search engine can provide the appropriate listings based on zip codes and insurance.  Age group 25+.
 •	Relocated a new state and are seeking the appropriate health insurance and primary care physician. Age group 25+.
 
 ## Patient Information Form

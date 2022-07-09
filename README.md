@@ -29,4 +29,8 @@ Customer Use Case
 ## Recommend a Specialist
 ![image](RecommendASpecialistForPatient.png)
 
+## Technical Product Development
+![image](Slide1.jpg)
+
+
 Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement

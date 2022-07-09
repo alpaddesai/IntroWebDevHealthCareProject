@@ -14,7 +14,7 @@ Customer Use Case
 
 •	Primary care physician provides information on a new health issue, you wish to seek a specialist. This search engine can provide the appropriate listings based on zip codes and insurance.  Age group 25+.
 
-•	Relocated to a new state and are seeking the appropriate health insurance and primary care physician. Age group 25+.
+•	Relocated to a new domestic state and are seeking the appropriate health insurance and primary care physician. Age group 25+.
 
 ## Patient Information Form
 ![image](PatientDatabaseInformation.png)

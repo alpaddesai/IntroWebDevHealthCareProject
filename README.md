@@ -17,7 +17,7 @@ Customer Use Case
 •	Relocated to a new domestic state and are seeking the appropriate health insurance and primary care physician. Age group 25+.
 
 ## Patient Information Form
-![image](ElectronicHealthRecords.png)
+![image](ElectronicHealthRecords.jpg)
 ![image](PatientDatabaseInformation.png)
 
 ## Recommend an Insurance Plan

@@ -39,4 +39,4 @@ Customer Use Case
 ![image](Slide7.JPG)
 ![image](Slide8.JPG)
 
-Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement
+Additional reference : https://github.com/alpaddesai/TechnicalProductManagement

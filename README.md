@@ -6,7 +6,7 @@ Provide the patient's health record and receive recommendations on health care b
 
 Project Overview
 
-The web application is associated with providing non-confidential high level health information into a database search engine. Based on a selected criteria the search engine will recommend an appropriate health insurance plan, a primary care physician and a listing of suitable health care providers/ doctors that specialize in those areas.    
+The web application is associated with providing non-confidential high level health information into a database search engine. Based on a selected criteria the search engine will recommend an appropriate health insurance plan, health care budget, a primary care physician and a listing of suitable health care providers/ doctors that specialize in those areas.    
 
 Customer Use Case
 

@@ -29,4 +29,10 @@ Customer Use Case
 ## Recommend a Specialist
 ![image](RecommendASpecialistForPatient.png)
 
+## Certificate
+![image](USCopyrightCertificate.png)
+
+## Ethics
+![image](Ethics.jpg)
+
 Additional reference : https://github.com/alpaddesai/TechnicalProductManagement

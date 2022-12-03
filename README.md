@@ -35,4 +35,4 @@ Customer Use Case
 ## Ethics
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/TechnicalProductManagement
+Additional reference : https://github.com/alpaddesai/TechnicalProductManagement2022
